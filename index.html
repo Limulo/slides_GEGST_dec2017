@@ -7,7 +7,7 @@
 		<title>Game Engine, Game Sound Techniques - Dec 2017</title>
 
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/black.css">
+		<link rel="stylesheet" href="css/theme/limulo1.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
@@ -30,22 +30,25 @@
 								data-separator="^\n\n\n"
          				data-separator-vertical="^\n\n"
         				data-separator-notes="^Note:"
-         				data-charset="iso-8859-15">
+         				data-charset="utf-8">
 				</section>
+			-->
 
-
+				<!--
 				<section data-markdown="_slides/game-engines.md"
 								data-separator="^\n\n\n"
          				data-separator-vertical="^\n\n"
         				data-separator-notes="^Note:"
-         				data-charset="iso-8859-15">
+         				data-charset="utf-8">
 				</section>
--->
+				-->
+
+
 				<section data-markdown="_slides/traditional-sound.md"
 								data-separator="^\n\n\n"
          				data-separator-vertical="^\n\n"
         				data-separator-notes="^Note:"
-         				data-charset="iso-8859-15">
+         				data-charset="utf-8">
 				</section>
 
 
@@ -53,7 +56,7 @@
 								data-separator="^\n\n\n"
          				data-separator-vertical="^\n\n"
         				data-separator-notes="^Note:"
-         				data-charset="iso-8859-15">
+         				data-charset="utf-8">
 				</section>
 
 
@@ -61,9 +64,18 @@
 								data-separator="^\n\n\n"
 								data-separator-vertical="^\n\n"
 								data-separator-notes="^Note:"
-								data-charset="iso-8859-15">
+								data-charset="utf-8">
 				</section>
 
+
+				<!--
+				<section data-markdown="_slides/procedural-sound.md"
+								data-separator="^\n\n\n"
+								data-separator-vertical="^\n\n"
+								data-separator-notes="^Note:"
+								data-charset="iso-8859-15">
+				</section>
+				-->
 
 			</div>
 		</div>
@@ -84,7 +96,10 @@
 					{ src: 'plugin/notes/notes.js', async: true },
 					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
 					// MathJax
-					{ src: 'plugin/math/math.js', async: true }
+					{ src: 'plugin/math/math.js', async: true },
+					// SVG fragments
+					{ src: 'plugin/svg/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } }
+
 				]
 			});
 		</script>

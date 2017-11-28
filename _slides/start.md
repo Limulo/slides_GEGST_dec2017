@@ -1,3 +1,25 @@
+<!-- .slide: data-transition="slide-in zoom-out" -->
+prova
+
+
+<!-- .slide: data-transition="fade-in fade-out" -->
+test
+
+
+<!-- .slide: data-transition="convex-in concave-out" -->
+esperimento
+
+
+<!-- .slide: data-transition="zoom" -->
+example
+
+
+<!-- .slide: data-transition="zoom" -->
+esempio
+
+
+
+<!-- .slide: data-transition="convex" -->
 # START
 Un po' di testo
 
