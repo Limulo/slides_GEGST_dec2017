@@ -9,6 +9,9 @@
 <!-- esher -->
 
 
+interface sounds
+
+
 <!-- .slide: data-background-size="contain" data-background-color="#000" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/prince-of-persia-2.png" -->
 <!-- prince of persia-->
 
@@ -21,7 +24,7 @@ Your browser does not support the audio element.
 
 
 
-Repetition is bad
+## Repetition is bad
 
 
 dialog
@@ -84,11 +87,33 @@ suono senza corrispondenza visiva<!-- .element: class="fragment" -->
 
 
 <!-- formula matematica -->
-$$ \binom{n+k-1}{k} = \frac{(n+k-1)!}{k!(n-1)!} $$
+$$ \left({n\choose k}\right) = \binom{n+k-1}{k} = \frac{(n+k-1)!}{k!(n-1)!} $$
 
 
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/weapons.jpg" -->
 <!-- armature esempio -->
-armature, esempio pratico
+
+
+$$ \left({13\choose 2}\right) = 91 $$
+
+
+<!-- .slide: data-background-color="#fff" -->
+<!-- slide characters terrains clothes -->
+<svg viewBox="0 0 960 540">
+
+  <svg class="fragment" data-fragment-index="3">
+    <use xlink:href="images/pt2/diapo-combinations.svg#clothes">
+  </svg>
+
+  <svg class="fragment" data-fragment-index="2">
+    <use xlink:href="images/pt2/diapo-combinations.svg#terrains">
+  </svg>
+
+  <svg data-fragment-index="1">
+    <use xlink:href="images/pt2/diapo-combinations.svg#characters">
+  </svg>
+
+</svg>
 
 
 <!-- .slide: data-background-color="#fff" -->
@@ -158,8 +183,8 @@ when to apply these modification (TODO: to be deleted)
 
 
 <!-- .slide: data-background-color="#fff" -->
-<img class="fragment fade-down" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt1/iMuse/indy-fight-cut.jpg" style="float:left;" />
-<img class="fragment fade-down" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/iMuse-01.png" />
+<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt1/iMuse/indy-fight-cut.jpg" style="float:left;" />
+<img class="fragment fade-up" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/iMuse-01.png" />
 
 
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/iMuse-02.png" -->
@@ -169,11 +194,14 @@ when to apply these modification (TODO: to be deleted)
 
 
 
-<!-- .slide: data-background-transition="concave" -->
 ## Modern game audio engine characteristics
 
 
-<span class="fragment grow">Wwise</span> & <span class="fragment grow">Fmod</span>
+Wwise & Fmod
+
+
+<!-- .slide: data-background-color="#fff" -->
+![mario & coin](images/pt2/mario-coin.png)
 
 
 <!-- .slide: data-background-iframe="https://www.youtube.com/embed/Dp7fVUfj8oI" data-background-interactive -->
@@ -185,16 +213,22 @@ when to apply these modification (TODO: to be deleted)
 
 
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/multisampling.png" -->
-<!-- /home/v1a1l1e1/Documents/repos/game-sound-sae2017/images/2017-05/pt2/barrel-falling.png -->
+<!-- multisampling graph -->
 
 
-mixing, grouping & buses
+<!-- .slide: data-background-color="#fff" -->
+![barrell falling](https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/barrel-falling.png)
+
+
+<!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="images/pt2/mixer.png" -->
+<!-- mixer, busses, groups -->
 
 
 <img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/screenshot-01.jpg" alt="quake 2 screenshot" />
+<!-- quake -->
 
-
-<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/screenshot-02.jpg" alt="quake 2 screenshot" />
+<img class="fragment" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/screenshot-02.jpg" alt="quake 2 screenshot" /><!-- .element: style="position:absolute; top:0; left:0;" -->
+<!-- quake -->
 
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/senua-parameters.jpg"
@@ -202,14 +236,26 @@ text-align="top " -->
 <!-- RTPC -->
 
 
-position, attenuation & damping, Ambience (graph)
-fragment: more examples
-
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/3D-sound.png" -->
 <!-- 3D sound -->
 
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/LQQ2Jm2dgXk?list=PLbpkF8TRYizaT6GfMcKBG-RoUOQ6BJRXp" frameborder="0" allowfullscreen></iframe>
+<!-- .slide: data-background-color="#fff" -->
+<!-- slide 3D sound and senua binaural -->
+<svg viewBox="0 0 960 540">
+
+  <svg class="fragment" data-fragment-index="2">
+    <use xlink:href="images/pt2/diapo-ambience.svg#images">
+  </svg>
+
+  <svg data-fragment-index="1">
+    <use xlink:href="images/pt2/diapo-ambience.svg#graph">
+  </svg>
+
+</svg>
+
+
+<iframe width="100%" height="500px" src="https://www.youtube.com/embed/LQQ2Jm2dgXk?list=PLbpkF8TRYizaT6GfMcKBG-RoUOQ6BJRXp" frameborder="0" allowfullscreen></iframe>
 
 
 <!-- .slide: data-background-size="contain" data-background-color="#000" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/gabriel-talking.jpg" -->
@@ -225,4 +271,5 @@ fragment: more examples
 decoding data streams
 
 
-godot audio architecture
+
+## godot audio architecture
