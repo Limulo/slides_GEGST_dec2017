@@ -6,15 +6,15 @@
 <svg width="40%" viewBox="0 0 206.7433 323.99786">
 
   <svg class="fragment" data-fragment-index="3">
-    <use xlink:href="images/pt3/data-driven.svg#database">
+    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/data-driven.svg#database">
   </svg>
 
   <svg class="fragment" data-fragment-index="2">
-    <use xlink:href="images/pt3/data-driven.svg#arrow">
+    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/data-driven.svg#arrow">
   </svg>
 
   <svg data-fragment-index="1">
-    <use xlink:href="images/pt3/data-driven.svg#wavefiles">
+    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/data-driven.svg#wavefiles">
   </svg>
 
 </svg>

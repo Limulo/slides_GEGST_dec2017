@@ -25,11 +25,11 @@ Your browser does not support the audio element.
 ## Repetition is bad
 
 
-Suspension of disbilief
+Suspension of disbelief
 
 <span class="fragment" style="font-size:0.8em;">(interruption of)</span>
 
-![interruption of the suspension of disbilief](https://media.giphy.com/media/l4FGuE8LtZg2wKmZi/giphy.gif)<!-- .element: class="fragment fade-up" style="width:80%;" -->
+![interruption of the suspension of disbilief](https://media.giphy.com/media/glmRyiSI3v5E4/giphy.gif)<!-- .element: class="fragment fade-up" style="width:70%;" -->
 
 
 dialog
@@ -262,19 +262,19 @@ text-align="top " -->
 <svg width="70%" viewBox="0 0 830.05957 839.61444">
 
   <svg class="fragment" data-fragment-index="3">
-    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/3D-sound.svg#listener">
+    <use xlink:href="images/pt2/3D-sound.svg#listener">
   </svg>
 
   <svg class="fragment" data-fragment-index="2">
-    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/3D-sound.svg#emitter">
+    <use xlink:href="images/pt2/3D-sound.svg#emitter">
   </svg>
 
   <svg class="fragment" data-fragment-index="4">
-    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/3D-sound.svg#distance">
+    <use xlink:href="images/pt2/3D-sound.svg#distance">
   </svg>
 
   <svg data-fragment-index="1">
-    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/3D-sound.svg#ground">
+    <use xlink:href="images/pt2/3D-sound.svg#ground">
   </svg>
 
 </svg>
@@ -305,6 +305,7 @@ text-align="top " -->
 ## godot audio architecture
 
 
+<!-- .slide: data-background-color="#fff" -->
 <table>
 <tr>
 <td>
