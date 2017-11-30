@@ -5,11 +5,9 @@
 <!-- Film: linear media vs non-linear media -->
 
 
-<!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="https://media.giphy.com/media/8662MUIPyGW6Q/giphy.gif" -->
-<!-- esher -->
-
-
-interface sounds
+<!-- .slide: data-background-color="#000" -->
+<!-- interface sounds -->
+![gui](images/pt2/gui2.png)<!-- .element: style="max-height:100vh" -->
 
 
 <!-- .slide: data-background-size="contain" data-background-color="#000" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/prince-of-persia-2.png" -->
@@ -27,13 +25,20 @@ Your browser does not support the audio element.
 ## Repetition is bad
 
 
+Suspension of disbilief
+
+<span class="fragment" style="font-size:0.8em;">(interruption of)</span>
+
+![interruption of the suspension of disbilief](https://media.giphy.com/media/l4FGuE8LtZg2wKmZi/giphy.gif)<!-- .element: class="fragment fade-up" style="width:80%;" -->
+
+
 dialog
 
 fooley<!-- .element: class="fragment" -->
 
 fisica<!-- .element: class="fragment" -->
 
-suono senza corrispondenza visiva<!-- .element: class="fragment" -->
+sound without visual correspondence<!-- .element: class="fragment" -->
 
 
 
@@ -41,7 +46,7 @@ suono senza corrispondenza visiva<!-- .element: class="fragment" -->
 
 
 <!-- .slide: data-background-color="#fff" -->
-<!-- envent to sound -->
+<!-- event to sound -->
 <svg viewBox="0 0 451.53073 164.52727">
 
   <svg class="fragment" data-fragment-index="2">
@@ -121,7 +126,7 @@ $$ \left({13\choose 2}\right) = 91 $$
 
 
 <!-- .slide: data-background-color="#fff" -->
-![spreadsheet](https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/spritesheet-02.jpg)
+![spreadsheet](https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/spritesheet-02.jpg)<!-- .element: style="width:60%" -->
 
 
 <!-- .slide: data-background-color="#fff" -->
@@ -137,7 +142,7 @@ $$ \left({13\choose 2}\right) = 91 $$
 
 
 
-## variazioni in Real Time
+## Real Time Variations
 
 
 <!-- .slide: data-background-color="#fff" -->
@@ -172,9 +177,6 @@ $$ \left({13\choose 2}\right) = 91 $$
 <!-- environmental variation -->
 
 
-when to apply these modification (TODO: to be deleted)
-
-
 
 <img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/iMuse-system-logo.png" /><!-- .element: style="width:90%" -->
 
@@ -197,7 +199,16 @@ when to apply these modification (TODO: to be deleted)
 ## Modern game audio engine characteristics
 
 
-Wwise & Fmod
+<table>
+<tr>
+<td vertical-align="middle">
+  <img src="images/pt2/logo-fmod.png" alt="fmod logo" style="width:70%;" />
+</td>
+<td vertical-align="middle">
+  <img src="images/pt2/logo-wwise.png" alt="wwise logo" style="width:70%;" />
+</td>
+</tr>
+</table>
 
 
 <!-- .slide: data-background-color="#fff" -->
@@ -208,8 +219,18 @@ Wwise & Fmod
 <!-- super mario -->
 
 
-<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/dice.jpg" -->
-<!-- dice -->
+<!-- .slide: data-background-color="#fff" -->
+<!-- dice, footsteps -->
+<table>
+<tr>
+<td>
+  <img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/dice.jpg" />
+</td>
+<td>
+  <img class="fragment fade-left" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/footsteps.png" />
+</td>
+</tr>
+</table>
 
 
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/multisampling.png" -->
@@ -217,7 +238,7 @@ Wwise & Fmod
 
 
 <!-- .slide: data-background-color="#fff" -->
-![barrell falling](https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/barrel-falling.png)
+![barrell falling](https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/barrel-falling.png)<!-- .element: style="width:40%" -->
 
 
 <!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="images/pt2/mixer.png" -->
@@ -236,23 +257,31 @@ text-align="top " -->
 <!-- RTPC -->
 
 
-<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/3D-sound.png" -->
-<!-- 3D sound -->
-
-
 <!-- .slide: data-background-color="#fff" -->
-<!-- slide 3D sound and senua binaural -->
-<svg viewBox="0 0 960 540">
+<!-- 3D sound -->
+<svg width="70%" viewBox="0 0 830.05957 839.61444">
+
+  <svg class="fragment" data-fragment-index="3">
+    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/3D-sound.svg#listener">
+  </svg>
 
   <svg class="fragment" data-fragment-index="2">
-    <use xlink:href="images/pt2/diapo-ambience.svg#images">
+    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/3D-sound.svg#emitter">
+  </svg>
+
+  <svg class="fragment" data-fragment-index="4">
+    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/3D-sound.svg#distance">
   </svg>
 
   <svg data-fragment-index="1">
-    <use xlink:href="images/pt2/diapo-ambience.svg#graph">
+    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/3D-sound.svg#ground">
   </svg>
 
 </svg>
+
+
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="images/pt2/diapo-ambience.png" -->
+<!-- slide 3D sound and senua binaural -->
 
 
 <iframe width="100%" height="500px" src="https://www.youtube.com/embed/LQQ2Jm2dgXk?list=PLbpkF8TRYizaT6GfMcKBG-RoUOQ6BJRXp" frameborder="0" allowfullscreen></iframe>
@@ -268,8 +297,21 @@ text-align="top " -->
 <!-- alignement -->
 
 
-decoding data streams
+<!-- .slide: data-background-color="#fff" -->
+![decoding data stream](images/pt2/diapo-codecs.png)<!-- .element: style="max-height:80vh;" -->
 
 
 
 ## godot audio architecture
+
+
+<table>
+<tr>
+<td>
+  <img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/godot/scene-servers-drivers.png" />
+</td>
+<td>
+  <img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/godot/godot-obj-collage.png" />
+</td>
+</tr>
+</table>
