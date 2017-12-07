@@ -7,3 +7,27 @@ These are the slides for the _GE & GST_ lessons. Build with [reveal.js](https://
 For more information:
 [limulo.net](http://www.limulo.net/)
 [GE & GST homepage](https://limulo.github.io/game-sound-sae2017/)
+
+## Installation
+
+In order to run this presentation you first need to install _NodeJs_: follow the instructions you find [here](http://www.limulo.net/wiki/index.php?title=Reveal.js) to do that.
+
+Then you must clone this repo, go inside its folder and:
+* install all the necessary _modules_ with `npm install`;
+* start the presentation with `npm start`.
+
+## Add content to the presentation
+
+In order to add new content to the presentation do one of the following operations:
+
+1. Edit the `index.html` file taking care of special _data separator_;
+2. Edit the corresponding `.md` files inside the `_slides` folder;
+3. Add new images inside the `_images` folder or link them from the [GE & GST](https://github.com/Limulo/game-sound-sae2017) repo;
+4. Do the same with other kind of resources you may need (like sounds, videos, gif and so on).
+
+There's no need to modify anything else.
+
+## Add styles to the presentation
+
+Follow the instruction you find [here](https://github.com/hakimel/reveal.js#instructions):
+* [slide background](https://github.com/hakimel/reveal.js#slide-backgrounds);
