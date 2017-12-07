@@ -31,3 +31,9 @@ There's no need to modify anything else.
 
 Follow the instruction you find [here](https://github.com/hakimel/reveal.js#instructions):
 * [slide background](https://github.com/hakimel/reveal.js#slide-backgrounds);
+
+## Notes
+
+The _iframe_ background will not work if you are using a video starting from a specific point in time:
+* both this vesrion _?t=2m18s_;
+* or this one _?start=123_;
