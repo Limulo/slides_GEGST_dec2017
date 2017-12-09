@@ -3,6 +3,7 @@
 
 <!-- .slide: data-background-color="#fff" -->
 <!-- modello data driven -->
+<!--
 <svg width="40%" viewBox="0 0 206.7433 323.99786">
 
   <svg class="fragment" data-fragment-index="3">
@@ -15,6 +16,22 @@
 
   <svg data-fragment-index="1">
     <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/data-driven.svg#wavefiles">
+  </svg>
+
+</svg>
+-->
+<svg width="40%" viewBox="0 0 206.7433 323.99786">
+
+  <svg class="fragment" data-fragment-index="3">
+    <use xlink:href="/images/pt3/data-driven.svg#database">
+  </svg>
+
+  <svg class="fragment" data-fragment-index="2">
+    <use xlink:href="/images/pt3/data-driven.svg#arrow">
+  </svg>
+
+  <svg data-fragment-index="1">
+    <use xlink:href="/images/pt3/data-driven.svg#wavefiles">
   </svg>
 
 </svg>
@@ -143,11 +160,13 @@ variabilità
 
 <!-- .slide: data-background-color="#fff" -->
 default forms
+
 ![default form](https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/collision.png)
 
 
 <!-- .slide: data-background-color="#fff" -->
 LOAD
+
 ![L.O.A.D.](https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/mipmap.jpg)
 
 
@@ -196,19 +215,16 @@ As in computer graphics (rigging, textures, animation, modelling, light, visual 
 
 
 ## procedural audio examples
-magari da spostare o spezzare in due parti?
 
 
 
 ## Godot & PureData
 
 
-implementation graph
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/godot/Pd-Player.png" -->
 
 
-
-## hubbard
-to be deleted
-
-
+<!-- 
+<p>hubbard (tobe deleted)</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/pgPEaI0GHBI?list=PLXhLeiiveJmNhFf5ShVwwXspGfgt-ww8c" frameborder="0" allowfullscreen></iframe>
+-->
