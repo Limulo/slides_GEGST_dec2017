@@ -37,22 +37,38 @@
 </svg>
 
 
+<!-- .slide: data-background-color="#11a0dc" data-background-size="contain" data-background-image="images/pt3/jaws.jpg" -->
+<!-- jaws arcade advertise -->
+
+
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="images/pt3/MT_32.jpg" -->
+<!-- roland MT-32 -->
+
+
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/tetrahedron.png" -->
+<!-- tetrahedron -->
+
+
 <iframe width="100%" height="500px" src="https://sketchfab.com/models/d6c802a74a174c8c805deb20186d1877/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="">
 </iframe>
 <!-- grafica per realismo -->
-
-
-<!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="images/pt3/diapo-crash.png" -->
-<!-- crash bandicoot -->
 
 
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="images/pt3/diapo-uv-map.png" -->
 <!-- uv mapping -->
 
 
+<!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="images/pt3/diapo-crash.png" -->
+<!-- crash bandicoot -->
+
+
+<!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="images/pt3/toy-story-1.jpg" -->
+<!-- toy story -->
+
+
 <!-- .slide: data-background-color="#fff" -->
 <!-- fotografie -->
-<svg width="90%" viewBox="0 0 885.86365 343.30991">
+<svg width="110%" viewBox="0 0 885.86365 343.30991">
 
   <svg class="fragment" data-fragment-index="2">
     <use xlink:href="images/pt3/diapo-foto.svg#modifications">
@@ -142,6 +158,11 @@ niente trucchi da 4 soldi<!-- .element: class="fragment" -->
 </table>
 
 
+
+## some examples
+
+
+
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/beh-mod-impl.png" -->
 
 
@@ -214,17 +235,8 @@ As in computer graphics (rigging, textures, animation, modelling, light, visual 
 
 
 
-## procedural audio examples
-
-
 
 ## Godot & PureData
 
 
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/godot/Pd-Player.png" -->
-
-
-<!-- 
-<p>hubbard (tobe deleted)</p>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/pgPEaI0GHBI?list=PLXhLeiiveJmNhFf5ShVwwXspGfgt-ww8c" frameborder="0" allowfullscreen></iframe>
--->

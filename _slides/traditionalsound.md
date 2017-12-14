@@ -178,18 +178,18 @@ $$ \left({13\choose 2}\right) = 91 $$
 
 
 
-<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/iMuse-system-logo.png" /><!-- .element: style="width:90%" -->
-
-
-<!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/iMuse-system.png" -->
-
-
 <!-- .slide: data-background-color="#fff" -->
 <img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt1/iMuse/indy-fight-cut.jpg" style="float:left;" />
 <img class="fragment fade-up" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/iMuse-01.png" />
 
 
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/iMuse-02.png" -->
+
+
+<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/iMuse-system-logo.png" /><!-- .element: style="width:90%" -->
+
+
+<!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/iMuse-system.png" -->
 
 
 <!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/monkey2-scabb.gif" -->

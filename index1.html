@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title></title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href=".//css/reveal.css">
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href=".//css/theme/black.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? './/css/print/pdf.css' : './/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src=".//lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+
+<section><section id="procedural-sound-in-videogames" class="titleslide slide level1"><h1>Procedural Sound in VideoGames</h1></section><section id="sound-as-a-process" class="slide level2">
+<h1>Sound as a process</h1>
+<p>niente trucchi da 4 soldi<!-- .element: class="fragment" --></p>
+<!-- .slide: data-background-color="#fff" -->
+<figure>
+<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/esempi-procedurale/open-door.png" alt="door" /><figcaption>door</figcaption>
+</figure>
+<!-- .slide: data-background-color="#fff" -->
+<figure>
+<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/esempi-procedurale/steel-plate.png" alt="steel plate" /><figcaption>steel plate</figcaption>
+</figure>
+</section><section id="virtual-analog" class="slide level2">
+<h1>virtual analog</h1>
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="images/pt3/diapo-virtual-analog.png" -->
+</section><section id="physical-modelling" class="slide level2">
+<h1>physical modelling</h1>
+<!-- .slide: data-background-color="#fff" -->
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/pianoteq.png" alt="Pianoteq" /></th>
+<th style="text-align: center;"><iframe width="100%" height="315" src="https://www.youtube.com/embed/djUseuUisvM" frameborder="0" allowfullscreen></iframe></th>
+<th style="text-align: center;"><img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/Arturia-B3V.png" alt="Arturia B3" /></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/Antares_Throat.jpg" alt="Antares Throat" /></td>
+<td style="text-align: center;"><img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-12/pt3/Aeolus.png" alt="Aeolus" /></td>
+<td style="text-align: center;"><img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/Melodyne.jpg" alt="Melodyne" /></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/ravenscroft.jpg" />
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/pianoteq.png" />
+</td>
+</tr>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: right;">name</th>
+<th style="text-align: center;"><a href="https://www.vilabsaudio.com/Ravenscroft-By-VI-Labs">ravencroft</a></th>
+<th style="text-align: center;"><a href="https://www.pianoteq.com/">pianoteq</a></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">company</td>
+<td style="text-align: center;">VI Labs</td>
+<td style="text-align: center;">Moddartt</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">samples</td>
+<td style="text-align: center;">17000</td>
+<td style="text-align: center;">0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">disk space req.</td>
+<td style="text-align: center;">5.32 GB</td>
+<td style="text-align: center;">40 GB</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">ram</td>
+<td style="text-align: center;">4 GB</td>
+<td style="text-align: center;">256 MB</td>
+</tr>
+</tbody>
+</table>
+<!-- .slide: data-background-color="#fff" -->
+<figure>
+<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/40MB-v-5.32GB.png" alt="comparison" /><figcaption>comparison</figcaption>
+</figure>
+</section><section id="procedural-audio" class="slide level2">
+<h1>Procedural audio</h1>
+<blockquote>
+<p>Procedural audio is non-linear, often synthetic sound, created in real time according to a set of programmatic rules and live input.<br/><br/><span style="font-size:0.7em;">from &quot;<a href="http://cs.au.dk/~dsound/DigitalAudio.dir/Papers/proceduralAudio.pdf">An introduction to procedural audio and its application in computer games</a>&quot;<br/>by Andy Farnell</span></p>
+</blockquote>
+<!-- .slide: data-background-color="#fff" -->
+<table style="width:100%;">
+<tr>
+<td>
+<img class="fragment fade-right" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/book-Perry-Cook.png" alt="Perry Cook's book" width="100%;" />
+</td>
+<td>
+<img class="fragment fade-left" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/book-designing-sounds.jpg" alt="Andy Farnell's book" width="100%;" />
+</td>
+</tr>
+</table>
+</section><section id="some-examples" class="slide level2">
+<h1>some examples</h1>
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/beh-mod-impl.png" -->
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="images/pt3/vectrorial_vs_raster.png" -->
+</section><section id="vantaggi" class="slide level2">
+<h1>vantaggi</h1>
+<p>differimento</p>
+<p>variabilità</p>
+<!-- .slide: data-background-color="#fff" -->
+<p>default forms</p>
+<figure>
+<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/collision.png" alt="default form" /><figcaption>default form</figcaption>
+</figure>
+<!-- .slide: data-background-color="#fff" -->
+<p>LOAD</p>
+<figure>
+<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/mipmap.jpg" alt="L.O.A.D." /><figcaption>L.O.A.D.</figcaption>
+</figure>
+</section><section id="svantaggi" class="slide level2">
+<h1>svantaggi</h1>
+<p>industrial inertia<!-- .element: class="fragment"--></p>
+<p>new skills<!-- .element: class="fragment"--></p>
+<p>sintesi = falso (!!)<!-- .element: class="fragment"--></p>
+<!-- .slide: data-background-color="#fff" -->
+<figure>
+<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/physically-inpired-model-bis.png" alt="PIM" /><figcaption>PIM</figcaption>
+</figure>
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="images/pt3/diapo-aristotele.png" -->
+<!-- Aristotele + Chion -->
+</section><section id="the-future" class="slide level2">
+<h1>the future</h1>
+<p>As in computer graphics (rigging, textures, animation, modelling, light, visual fxs) <span class="fragment">so in sound design (<a href="http://www.cs.cornell.edu/projects/FractureSound/">fracture sound</a>, <a href="http://independent.academia.edu/StefaniaSerafin">friction</a>, water and <a href="http://www.cs.cornell.edu/projects/Sound/bubbles/">bubbles</a>, <a href="http://www.cs.columbia.edu/cg/crumpling/">crumpling</a>, fire, <a href="http://www.cs.ubc.ca/~kvdoel/publications/modalpaper.pdf">impacts</a>, <a href="http://www.ness-music.eu/wp-content/uploads/2013/04/TASL2256897.pdf">environmental acoustics</a>)</span></p>
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/sierra-lipsync.jpg" -->
+<!-- animation driven by audio -->
+<!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images//2017-09/pt3/Ghost-Recon.png" -->
+<!-- animation driven by audio -->
+<figure>
+<img src="images/pt3/inverse-fooley.png" alt="inverse fooley" /><figcaption>inverse fooley</figcaption>
+</figure>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/EGkQkdCKztM?start=130" frameborder="0" allowfullscreen>
+</iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/EGkQkdCKztM?start=226" frameborder="0" allowfullscreen>
+</iframe>
+</section><section id="godot-puredata" class="slide level2">
+<h1>Godot &amp; PureData</h1>
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/godot/Pd-Player.png" -->
+</section></section>
+    </div>
+  </div>
+
+  <script src=".//lib/js/head.min.js"></script>
+  <script src=".//js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: './/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: './/plugin/zoom-js/zoom.js', async: true },
+          { src: './/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
