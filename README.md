@@ -42,3 +42,5 @@ The _iframe_ background will not work if you are using a video starting from a s
 
 Follow the instruction found on these links:
 * Angelo Basile [post](http://anbasile.github.io/programming/2015/12/25/hosting-reveal-pres-on-github/). You will also need **pandoc** along with **reveal.js** in order to convert your _.md_ files into _.html_; 
+* Also read [this](http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc) page from the **pandoc** on--line manual. It should be very useful.
+
