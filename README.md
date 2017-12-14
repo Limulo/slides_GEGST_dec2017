@@ -37,3 +37,8 @@ Follow the instruction you find [here](https://github.com/hakimel/reveal.js#inst
 The _iframe_ background will not work if you are using a video starting from a specific point in time:
 * both this vesrion _?t=2m18s_;
 * or this one _?start=123_;
+
+## Deploy the presentation to GitHub pages
+
+Follow the instruction found on these links:
+* Angelo Basile [post](http://anbasile.github.io/programming/2015/12/25/hosting-reveal-pres-on-github/). You will also need **pandoc** along with **reveal.js** in order to convert your _.md_ files into _.html_; 
