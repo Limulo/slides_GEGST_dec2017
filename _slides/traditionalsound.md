@@ -3,44 +3,11 @@
 
 ## Suspension of disbilief<!-- .element: class="fragment fade-up" -->
 
-cinema + popcorn image
+<!-- .slide: data-background-size="contain" data-background-color="#000" data-background-image="https://media.giphy.com/media/l4Ep8U3AwvIML2Lg4/giphy.gif" -->
 
 
-(interruption of)
-
-![interruption of the suspension of disbilief](https://media.giphy.com/media/glmRyiSI3v5E4/giphy.gif)<!-- .element: style="width:70%;" -->
-
-
-<!-- .slide: data-background-color="#000" -->
-<!-- interface sounds -->
-![gui](images/pt2/gui2.png)<!-- .element: style="max-height:100vh" -->
-
-
-<!-- .slide: data-background-size="contain" data-background-color="#000" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/prince-of-persia-2.png" -->
-<!-- prince of persia-->
-
-## Sound Reward<!-- .element: class="fragment" -->
-
-<audio class="fragment fade-up" controls style="width:100%">
-  <source src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/sounds/prince-glu-glu.ogg" type="audio/ogg">
-Your browser does not support the audio element.
-</audio>
-
-
-
-## Cinema: a linear media
-
-repetition is under control<!-- .element: class="fragment" -->
-
-<audio class="fragment fade-up" controls style="width:100%">
-  <source src="sounds/64939__syna-max__wilhelm-scream.ogg" type="audio/ogg">
-Your browser does not support the audio element.
-</audio><!-- .element: class="fragment" -->
-
-
-<!-- .slide: data-background-size="contain" data-background-color="#f7eac8" data-background-image="images/pt2/zork-1-map.jpg" -->
-
-<!-- [videogame is not a linear media](http://twinegarden.tumblr.com/) -->
+<!-- .slide: data-background-size="contain" data-background-color="#000" data-background-image="https://media.giphy.com/media/glmRyiSI3v5E4/giphy.gif" -->
+<!-- interruption od suspension of disbilief -->
 
 
 
@@ -57,7 +24,49 @@ sound without visual correspondence<!-- .element: class="fragment" -->
 
 
 
-## event to sound
+## Cinema: a linear media
+
+repetition is under control<!-- .element: class="fragment" -->
+
+<audio class="fragment fade-up" controls style="width:100%">
+  <source src="sounds/64939__syna-max__wilhelm-scream.ogg" type="audio/ogg">
+Your browser does not support the audio element.
+</audio><!-- .element: class="fragment" -->
+
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/y61sTtA2Afs?rel=0" allowfullscreen></iframe>
+<!--<iframe width="100%" height="500" src="https://www.youtube.com/embed/Zf8aBFTVNEU?start=15" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>-->
+<!-- Start wars Wilhelm scream edition -->
+
+
+<!-- .slide: data-background-size="contain" data-background-color="#f7eac8" data-background-image="images/pt2/zork-1-map.jpg" -->
+
+
+[videogame is not a linear media](http://twinegarden.tumblr.com/)
+
+
+
+## Repetition is good!
+
+
+<!-- .slide: data-background-color="#000" -->
+<!-- interface sounds -->
+![gui](images/pt2/gui2.png)<!-- .element: style="max-height:100vh" -->
+
+
+<!-- .slide: data-background-size="contain" data-background-color="#000" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/prince-of-persia-2.png" -->
+<!-- prince of persia-->
+
+### Sound Reward<!-- .element: class="fragment" -->
+
+<audio class="fragment fade-up" controls style="width:100%">
+  <source src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/sounds/prince-glu-glu.ogg" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+
+
+## Event to Sound
 
 
 <!-- .slide: data-background-color="#fff" -->
