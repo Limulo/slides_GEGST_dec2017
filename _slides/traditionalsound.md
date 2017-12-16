@@ -1,8 +1,14 @@
 # Traditional Sound in VideoGames
 
 
-<!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="https://media.giphy.com/media/l0Iy3SmLtviyE3bvG/giphy.gif" -->
-<!-- Film: linear media vs non-linear media -->
+## Suspension of disbilief<!-- .element: class="fragment fade-up" -->
+
+cinema + popcorn image
+
+
+(interruption of)
+
+![interruption of the suspension of disbilief](https://media.giphy.com/media/glmRyiSI3v5E4/giphy.gif)<!-- .element: style="width:70%;" -->
 
 
 <!-- .slide: data-background-color="#000" -->
@@ -22,14 +28,19 @@ Your browser does not support the audio element.
 
 
 
+film as a linear media
+
+
+repetition is under control (whilem scream)
+
+
+<!-- .slide: data-background-size="contain" data-background-color="#f7eac8" data-background-image="images/pt2/zork-1-map.jpg" -->
+
+<!-- [videogame is not a linear media](http://twinegarden.tumblr.com/) -->
+
+
+
 ## Repetition is bad
-
-
-Suspension of disbelief
-
-<span class="fragment" style="font-size:0.8em;">(interruption of)</span>
-
-![interruption of the suspension of disbilief](https://media.giphy.com/media/glmRyiSI3v5E4/giphy.gif)<!-- .element: class="fragment fade-up" style="width:70%;" -->
 
 
 dialog
