@@ -19,7 +19,7 @@ cinema + popcorn image
 <!-- .slide: data-background-size="contain" data-background-color="#000" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/prince-of-persia-2.png" -->
 <!-- prince of persia-->
 
-sound reward<!-- .element: class="fragment" -->
+## Sound Reward<!-- .element: class="fragment" -->
 
 <audio class="fragment fade-up" controls style="width:100%">
   <source src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/sounds/prince-glu-glu.ogg" type="audio/ogg">
@@ -28,10 +28,14 @@ Your browser does not support the audio element.
 
 
 
-film as a linear media
+## Cinema: a linear media
 
+repetition is under control<!-- .element: class="fragment" -->
 
-repetition is under control (whilem scream)
+<audio class="fragment fade-up" controls style="width:100%">
+  <source src="sounds/64939__syna-max__wilhelm-scream.ogg" type="audio/ogg">
+Your browser does not support the audio element.
+</audio><!-- .element: class="fragment" -->
 
 
 <!-- .slide: data-background-size="contain" data-background-color="#f7eac8" data-background-image="images/pt2/zork-1-map.jpg" -->
