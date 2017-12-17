@@ -3,11 +3,12 @@
 
 ## Suspension of disbilief<!-- .element: class="fragment fade-up" -->
 
-<!-- .slide: data-background-size="contain" data-background-color="#000" data-background-image="https://media.giphy.com/media/l4Ep8U3AwvIML2Lg4/giphy.gif" -->
+<!-- .slide: data-background-size="contain" data-background-color="#000" data-background-image="images/pt2/mr-bean-popcorn.gif" -->
+<!-- mr bean: suspension of disbilief -->
 
 
 <!-- .slide: data-background-size="contain" data-background-color="#000" data-background-image="https://media.giphy.com/media/glmRyiSI3v5E4/giphy.gif" -->
-<!-- interruption od suspension of disbilief -->
+<!-- interruption of suspension of disbilief -->
 
 
 
@@ -16,11 +17,7 @@
 
 dialog
 
-fooley<!-- .element: class="fragment" -->
-
-fisica<!-- .element: class="fragment" -->
-
-sound without visual correspondence<!-- .element: class="fragment" -->
+fooley/sdfx<!-- .element: class="fragment" -->
 
 
 
@@ -145,6 +142,9 @@ $$ \left({13\choose 2}\right) = 91 $$
 </svg>
 
 
+varietà & variazione
+
+
 <!-- .slide: data-background-color="#fff" -->
 ![spreadsheet](https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt2/spritesheet-01.jpg)
 
@@ -201,10 +201,25 @@ $$ \left({13\choose 2}\right) = 91 $$
 <!-- environmental variation -->
 
 
+### When to apply these modifications?
+
+dialogs<!-- .element: class="fragment" -->
+
+soundfx<!-- .element: class="fragment" -->
+
+music..<!-- .element: class="fragment" -->
+
+
+
+## Music
+
+
+<!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt1/iMuse/indy-fight-cut.jpg" -->
+
 
 <!-- .slide: data-background-color="#fff" -->
 <img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt1/iMuse/indy-fight-cut.jpg" style="float:left;" />
-<img class="fragment fade-up" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/iMuse-01.png" />
+<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/iMuse-01.png" />
 
 
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/iMuse-02.png" -->
@@ -233,14 +248,7 @@ $$ \left({13\choose 2}\right) = 91 $$
 </td>
 </tr>
 </table>
-
-
-<!-- .slide: data-background-color="#fff" -->
-![mario & coin](images/pt2/mario-coin.png)
-
-
-<!-- .slide: data-background-iframe="https://www.youtube.com/embed/Dp7fVUfj8oI" data-background-interactive -->
-<!-- super mario -->
+<!-- fmod + wwise logos -->
 
 
 <!-- .slide: data-background-color="#fff" -->
@@ -255,6 +263,12 @@ $$ \left({13\choose 2}\right) = 91 $$
 </td>
 </tr>
 </table>
+<!-- random -->
+
+
+<!-- .slide: data-background-color="#fff" -->
+![mario & coin](images/pt2/mario-coin.png)
+<!-- super mario -->
 
 
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/multisampling.png" -->
