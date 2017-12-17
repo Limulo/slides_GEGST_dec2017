@@ -2,39 +2,22 @@
 
 
 <!-- .slide: data-background-color="#fff" -->
+<svg width="40%" viewBox="0 0 206.7433 323.99786">
+
+  <svg class="fragment" data-fragment-index="3">
+    <use xlink:href="images/pt3/data-driven.svg#database">
+  </svg>
+
+  <svg class="fragment" data-fragment-index="2">
+    <use xlink:href="images/pt3/data-driven.svg#arrow">
+  </svg>
+
+  <svg data-fragment-index="1">
+    <use xlink:href="images/pt3/data-driven.svg#wavefiles">
+  </svg>
+
+</svg>
 <!-- modello data driven -->
-<!--
-<svg width="40%" viewBox="0 0 206.7433 323.99786">
-
-  <svg class="fragment" data-fragment-index="3">
-    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/data-driven.svg#database">
-  </svg>
-
-  <svg class="fragment" data-fragment-index="2">
-    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/data-driven.svg#arrow">
-  </svg>
-
-  <svg data-fragment-index="1">
-    <use xlink:href="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/data-driven.svg#wavefiles">
-  </svg>
-
-</svg>
--->
-<svg width="40%" viewBox="0 0 206.7433 323.99786">
-
-  <svg class="fragment" data-fragment-index="3">
-    <use xlink:href="/images/pt3/data-driven.svg#database">
-  </svg>
-
-  <svg class="fragment" data-fragment-index="2">
-    <use xlink:href="/images/pt3/data-driven.svg#arrow">
-  </svg>
-
-  <svg data-fragment-index="1">
-    <use xlink:href="/images/pt3/data-driven.svg#wavefiles">
-  </svg>
-
-</svg>
 
 
 <!-- .slide: data-background-color="#11a0dc" data-background-size="contain" data-background-image="images/pt3/jaws.jpg" -->
@@ -73,7 +56,6 @@
 ### realismo?
 
 <!-- .slide: data-background-color="#fff" -->
-<!-- fotografie -->
 <svg width="110%" viewBox="0 0 885.86365 343.30991">
 
   <svg class="fragment" data-fragment-index="2">
@@ -85,6 +67,7 @@
   </svg>
 
 </svg>
+<!-- fotografie -->
 
 
 <!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="images/pt3/david2.jpg" -->
@@ -167,7 +150,7 @@ niente trucchi da 4 soldi :)
 <table style="width:100%;">
 <tr>
 <td>
-<img class="fragment fade-right" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/book-Perry-Cook.png" alt="Perry Cook's book" width="100%;" />
+<img src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/book-Perry-Cook.png" alt="Perry Cook's book" width="100%;" />
 </td>
 <td>
 <img class="fragment fade-left" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/book-designing-sounds.jpg" alt="Andy Farnell's book" width="100%;" />
