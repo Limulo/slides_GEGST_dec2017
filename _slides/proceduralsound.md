@@ -49,13 +49,13 @@
 <!-- tetrahedron -->
 
 
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="images/pt3/diapo-uv-map.png" -->
+<!-- uv mapping -->
+
+
 <iframe width="100%" height="500px" src="https://sketchfab.com/models/d6c802a74a174c8c805deb20186d1877/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="">
 </iframe>
 <!-- grafica per realismo -->
-
-
-<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="images/pt3/diapo-uv-map.png" -->
-<!-- uv mapping -->
 
 
 <!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="images/pt3/diapo-crash.png" -->
@@ -66,6 +66,12 @@
 <!-- toy story -->
 
 
+
+## Sound as a process
+
+
+### realismo?
+
 <!-- .slide: data-background-color="#fff" -->
 <!-- fotografie -->
 <svg width="110%" viewBox="0 0 885.86365 343.30991">
@@ -74,7 +80,7 @@
     <use xlink:href="images/pt3/diapo-foto.svg#modifications">
   </svg>
 
-  <svg data-fragment-index="1">
+  <svg class="fragment" data-fragment-index="1">
     <use xlink:href="images/pt3/diapo-foto.svg#main">
   </svg>
 
@@ -84,9 +90,21 @@
 <!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="images/pt3/david2.jpg" -->
 
 
+<!-- .slide: data-background-color="#fff" -->
+<table>
+<tr>
+<td>
+  <img alt="AY-3-8500" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt1/story-line/microchip-AY-3-8500.png"/>
+</td>
+<td>
+  <img alt="SID" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/sid.jpg"/>
+</td>
+</tr>
+</table>
+<!-- sound microchips -->
 
-## Sound as a process
-niente trucchi da 4 soldi<!-- .element: class="fragment" -->
+
+niente trucchi da 4 soldi :)
 
 
 <!-- .slide: data-background-color="#fff" -->
@@ -130,7 +148,7 @@ niente trucchi da 4 soldi<!-- .element: class="fragment" -->
 |--:|:-:|:-:|
 | company | VI Labs | Moddartt |
 | samples | 17000 | 0 |
-| disk space req. | 5.32 GB | 40 GB |
+| disk space req. | 5.32 GB | 40 MB |
 | ram | 4 GB | 256 MB |
 
 
@@ -158,6 +176,9 @@ niente trucchi da 4 soldi<!-- .element: class="fragment" -->
 </table>
 
 
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="images/pt3/m5000.jpg" -->
+
+
 
 ## some examples
 
@@ -167,43 +188,48 @@ niente trucchi da 4 soldi<!-- .element: class="fragment" -->
 
 
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="images/pt3/vectrorial_vs_raster.png" -->
+<!-- png image vs svg image -->
+
+
+<!-- .slide: data-background-color="#fff" -->
+<table>
+<tr>
+<td>
+  <img alt="cake" src="images/pt3/cake.jpg"/>
+</td>
+<td>
+  <img alt="cake" src="images/pt3/recipes-book.jpg"/>
+</td>
+</tr>
+</table>
+<!-- cake and recipes -->
 
 
 
 ## vantaggi
 
 
-differimento
+posticipazione
 
 
-variabilità
-
-
-<!-- .slide: data-background-color="#fff" -->
-default forms
-
-![default form](https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/collision.png)
+differimento e variabilità
 
 
 <!-- .slide: data-background-color="#fff" -->
-LOAD
+Costo variabile & LOAD
 
 ![L.O.A.D.](https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt2/mipmap.jpg)
 
 
+<!-- .slide: data-background-color="#fff" -->
+defaults
 
-## svantaggi
+![default form](https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/collision.png)
 
-industrial inertia<!-- .element: class="fragment"-->
-
-new skills<!-- .element: class="fragment"-->
-
-sintesi = falso (!!)<!-- .element: class="fragment"-->
 
 
 <!-- .slide: data-background-color="#fff" -->
 ![PIM](https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/physically-inpired-model-bis.png)
-
 
 
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="images/pt3/diapo-aristotele.png" -->
@@ -211,18 +237,20 @@ sintesi = falso (!!)<!-- .element: class="fragment"-->
 
 
 
+## svantaggi
+
+industrial inertia<!-- .element: class="fragment"-->
+
+new skills and workflows<!-- .element: class="fragment"-->
+
+<span class="fragment">synthesis = fake</span> <span class="fragment" style="font-size:0.8em; font-style:italic;">(what?)</span>
+
+
+
 ## the future
 
 
 As in computer graphics (rigging, textures, animation, modelling, light, visual fxs) <span class="fragment">so in sound design ([fracture sound](http://www.cs.cornell.edu/projects/FractureSound/), [friction](http://independent.academia.edu/StefaniaSerafin), water and [bubbles](http://www.cs.cornell.edu/projects/Sound/bubbles/), [crumpling](http://www.cs.columbia.edu/cg/crumpling/), fire, [impacts](http://www.cs.ubc.ca/~kvdoel/publications/modalpaper.pdf), [environmental acoustics](http://www.ness-music.eu/wp-content/uploads/2013/04/TASL2256897.pdf))</span>
-
-
-<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/sierra-lipsync.jpg" -->
-<!-- animation driven by audio -->
-
-
-<!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images//2017-09/pt3/Ghost-Recon.png" -->
-<!-- animation driven by audio -->
 
 
 ![inverse fooley](images/pt3/inverse-fooley.png)
@@ -233,6 +261,13 @@ As in computer graphics (rigging, textures, animation, modelling, light, visual 
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/EGkQkdCKztM?start=226" frameborder="0" allowfullscreen></iframe>
 
+
+<!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/sierra-lipsync.jpg" -->
+<!-- animation driven by audio: Sierra Lip sync -->
+
+
+<!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images//2017-09/pt3/Ghost-Recon.png" -->
+<!-- animation driven by audio: flames and smoke -->
 
 
 

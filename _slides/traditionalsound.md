@@ -142,7 +142,7 @@ $$ \left({13\choose 2}\right) = 91 $$
 </svg>
 
 
-varietà & variazione
+differimento & variabilità
 
 
 <!-- .slide: data-background-color="#fff" -->
