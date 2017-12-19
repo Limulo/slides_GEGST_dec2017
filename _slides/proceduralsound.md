@@ -1,4 +1,4 @@
-# Procedural Sound in VideoGames
+# New ways of thinking Sound in VideoGames
 
 
 <!-- .slide: data-background-color="#fff" -->
@@ -22,6 +22,20 @@
 
 <!-- .slide: data-background-color="#11a0dc" data-background-size="contain" data-background-image="images/pt3/jaws.jpg" -->
 <!-- jaws arcade advertise -->
+
+
+<!-- .slide: data-background-color="#fff" -->
+<table>
+<tr>
+<td>
+  <img alt="AY-3-8500" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt1/story-line/microchip-AY-3-8500.png"/>
+</td>
+<td>
+  <img alt="SID" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/sid.jpg"/>
+</td>
+</tr>
+</table>
+<!-- sound microchips -->
 
 
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="images/pt3/MT_32.jpg" -->
@@ -71,20 +85,6 @@
 
 
 <!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="images/pt3/david2.jpg" -->
-
-
-<!-- .slide: data-background-color="#fff" -->
-<table>
-<tr>
-<td>
-  <img alt="AY-3-8500" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt1/story-line/microchip-AY-3-8500.png"/>
-</td>
-<td>
-  <img alt="SID" src="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-09/pt3/sid.jpg"/>
-</td>
-</tr>
-</table>
-<!-- sound microchips -->
 
 
 niente trucchi da 4 soldi :)
