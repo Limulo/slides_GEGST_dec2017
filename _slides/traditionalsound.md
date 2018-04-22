@@ -1,7 +1,7 @@
-# Traditional Sound in VideoGames
+# Suono Tradizionale nei VideoGames
 
 
-## Suspension of disbilief<!-- .element: class="fragment fade-up" -->
+## Sospensione dell'incredulità<!-- .element: class="fragment fade-up" -->
 
 <!-- .slide: data-background-size="contain" data-background-color="#000" data-background-image="images/pt2/mr-bean-popcorn.gif" -->
 <!-- mr bean: suspension of disbilief -->
@@ -12,18 +12,9 @@
 
 
 
-## Repetition is bad
+## Media Lineari
 
-
-dialog
-
-fooley/sdfx<!-- .element: class="fragment" -->
-
-
-
-## Cinema: a linear media
-
-repetition is under control<!-- .element: class="fragment" -->
+La ripetizione è sotto controllo<!-- .element: class="fragment" -->
 
 <audio class="fragment fade-up" controls style="width:100%">
   <source src="sounds/64939__syna-max__wilhelm-scream.ogg" type="audio/ogg">
@@ -39,11 +30,12 @@ Your browser does not support the audio element.
 <!-- .slide: data-background-size="contain" data-background-color="#f7eac8" data-background-image="images/pt2/zork-1-map.jpg" -->
 
 
-[videogame is not a linear media](http://twinegarden.tumblr.com/)
+### I videogame non sono media lineari  
+![twine](images/pt2/twine.jpg)
 
 
 
-## Repetition is good!
+## ... ma non sempre
 
 
 <!-- .slide: data-background-color="#000" -->
@@ -68,7 +60,7 @@ Your browser does not support the audio element.
 
 <!-- .slide: data-background-color="#fff" -->
 <!-- event to sound -->
-<svg viewBox="0 0 451.53073 164.52727">
+<svg viewBox="0 0 561.53073 250.52727">
 
   <svg class="fragment" data-fragment-index="2">
     <use xlink:href="images/pt2/event-sound.svg#sound">
@@ -166,7 +158,7 @@ differimento & variabilità
 
 
 
-## Real Time Variations
+## Variazioni in Real Time
 
 
 <!-- .slide: data-background-color="#fff" -->
@@ -201,17 +193,17 @@ differimento & variabilità
 <!-- environmental variation -->
 
 
-### When to apply these modifications?
+### Quando applicare le soluzioni?
 
-dialogs<!-- .element: class="fragment" -->
+dialoghi<!-- .element: class="fragment" -->
 
-soundfx<!-- .element: class="fragment" -->
+sound fx<!-- .element: class="fragment" -->
 
-music..<!-- .element: class="fragment" -->
+musica<!-- .element: class="fragment" -->
 
 
 
-## Music
+## Musica
 
 
 <!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/2017-05/pt1/iMuse/indy-fight-cut.jpg" -->
@@ -235,7 +227,7 @@ music..<!-- .element: class="fragment" -->
 
 
 
-## Modern game audio engine characteristics
+## Game audio engines
 
 
 <table>
