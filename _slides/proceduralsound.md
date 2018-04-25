@@ -1,4 +1,4 @@
-# New ways of thinking Sound in VideoGames
+# Nuovi modi di pensare il suono nei videogame
 
 
 <!-- .slide: data-background-color="#fff" -->
@@ -64,7 +64,7 @@
 
 
 
-## Sound as a process
+## Il suono come processo
 
 
 ### realismo?
@@ -86,8 +86,6 @@
 
 <!-- .slide: data-background-color="#000" data-background-size="contain" data-background-image="images/pt3/david2.jpg" -->
 
-
-niente trucchi da 4 soldi :)
 
 
 <!-- .slide: data-background-color="#fff" -->
@@ -140,7 +138,7 @@ niente trucchi da 4 soldi :)
 
 
 
-## Procedural audio
+## Audio Procedurale
 
 
 >Procedural audio is non-linear, often synthetic sound, created in real time according to a set of programmatic rules and live input.<br/><br/><span style="font-size:0.7em;">from "[An introduction to procedural audio and its application in computer games](http://cs.au.dk/~dsound/DigitalAudio.dir/Papers/proceduralAudio.pdf)"<br/>by Andy Farnell</span>
@@ -163,9 +161,6 @@ niente trucchi da 4 soldi :)
 
 
 
-## some examples
-
-
 
 <!-- .slide: data-background-color="#fff" data-background-size="contain" data-background-image="https://raw.githubusercontent.com/Limulo/game-sound-sae2017/master/images/graphics/beh-mod-impl.png" -->
 
@@ -186,6 +181,10 @@ niente trucchi da 4 soldi :)
 </tr>
 </table>
 <!-- cake and recipes -->
+
+
+
+## alcuni esempi
 
 
 
@@ -230,10 +229,10 @@ new skills and workflows<!-- .element: class="fragment"-->
 
 
 
-## the future
+## Prospettive future
 
 
-As in computer graphics (rigging, textures, animation, modelling, light, visual fxs) <span class="fragment">so in sound design ([fracture sound](http://www.cs.cornell.edu/projects/FractureSound/), [friction](http://independent.academia.edu/StefaniaSerafin), water and [bubbles](http://www.cs.cornell.edu/projects/Sound/bubbles/), [crumpling](http://www.cs.columbia.edu/cg/crumpling/), fire, [impacts](http://www.cs.ubc.ca/~kvdoel/publications/modalpaper.pdf), [environmental acoustics](http://www.ness-music.eu/wp-content/uploads/2013/04/TASL2256897.pdf))</span>
+Come nella computer graphic (rigging, textures, animation, modelling, light, visual fxs) <span class="fragment">così nel sound design ([fracture sound](http://www.cs.cornell.edu/projects/FractureSound/), [friction sound](http://independent.academia.edu/StefaniaSerafin), water and [bubbles](http://www.cs.cornell.edu/projects/Sound/bubbles/), [crumpling sound](http://www.cs.columbia.edu/cg/crumpling/), fire, [impacts](http://www.cs.ubc.ca/~kvdoel/publications/modalpaper.pdf), [environmental acoustics](http://www.ness-music.eu/wp-content/uploads/2013/04/TASL2256897.pdf))</span>
 
 
 ![inverse fooley](images/pt3/inverse-fooley.png)

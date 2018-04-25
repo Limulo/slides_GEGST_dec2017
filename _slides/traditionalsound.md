@@ -35,7 +35,7 @@ Your browser does not support the audio element.
 
 
 
-## ... ma non sempre
+## La ripetizione non è sempre un male
 
 
 <!-- .slide: data-background-color="#000" -->
